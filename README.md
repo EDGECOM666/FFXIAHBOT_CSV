@@ -1,11 +1,11 @@
 # FFXIAHBOT_CSV
-this is a items.csv file for use with pydarkstar and ffxiahbot 
- this was a whole table dump forom item_basic table in the ffxidb that was formated into csv format for pydarkstar (old) and ffxiahbot (new)
+this is a items.csv file for use with ffxiahbot 
+ this was a whole table dump forom item_basic table in the ffxidb that was formated into csv format for ffxiahbot
 
- just download the csv files and rename them accordingly.
+ just download the csv files and rename accordingly.
 
  Example:
- if you use the old pydarkstar still rename the pydarkstar_format_items.csv to items.csv and place it inside your bin folder
+ rename the ffxiahbot_format_items.csv to items.csv and place it inside your ffxiahbot/bin folder
 
 
 Please Note:
