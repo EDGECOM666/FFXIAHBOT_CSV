@@ -2,7 +2,7 @@
 this is a items.csv file for use with ffxiahbot 
  this was a whole table dump forom item_basic table in the ffxidb that was formated into csv format for ffxiahbot
 
- just download the csv files and rename accordingly.
+ just download the csv file and rename accordingly.
 
  Example:
  rename the ffxiahbot_format_items.csv to items.csv and place it inside your ffxiahbot/bin folder
